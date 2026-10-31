@@ -1,0 +1,5 @@
+﻿timestamp,nome,idade,convenio,prioridade,motivo
+2026-10-31 15:03:00,Maria Teste,34,Unimed,3,"Dor de cabeça, febre"
+2026-10-31 15:16:51,José Teste,44,Particular,3,Sincope e colapso
+2026-10-31 15:17:15,João Teste,54,SulAmérica,3,Febre e dores
+2026-10-31 15:18:48,Yeshua Teste,33,Outro,1,Calafrios e dores
